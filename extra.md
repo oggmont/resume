@@ -1,4 +1,4 @@
-# Interview Prep — Oscar Montero
+# Info — Oscar Montero
 
 Answers for behavioural and technical interview questions, plus a project log in STAR format (Situation, Task, Action, Result). Employer and client names are left out on purpose, as consultant work is usually under NDA. Describe clients by industry and size, never by name. Replace `[Company]` with the company you're interviewing with.
 
